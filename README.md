@@ -15,3 +15,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michellemcpherson126/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://michelle-mcpherson.netlify.app/)
+
+<p>
+  <img align="top" height="180em" src="https://github-readme-stats.vercel.app/api?username=michellechoi126&hide=stars,issues&count_private=true&show_icons=true&hide_border=true&theme=omni" />
+  <img align="top" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellechoi126&hide_border=true&theme=omni" />
+</p>
