@@ -7,7 +7,7 @@
 
 - :smile: I am a full stack software engineer and I enjoy creating beautifully designed, responsive web appilcations using modern frameworks and programming languages.
 
-- ⚡ Some of my favorite technologies to use: React, CSS, HTML5, JavaScript, MongoDB, Express, Node, Bootstrap
+- ⚡ Some of my favorite technologies to use are React, CSS, HTML5, JavaScript, MongoDB, Express, Node, Bootstrap
 
 - :sparkles: Fun facts: I am a career changer and have a background in digital advertising/marketing. I love dogs, food, and houseplants. My hobbies include binge-watching korean dramas, researching and testing copious amounts of skincare and makeup, and eating at all the restaurants within walking distance from my apartment.
 
